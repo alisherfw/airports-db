@@ -54,45 +54,5 @@
       "away_team":"FC Wacker Innsbruck",
       "home_score":1,
       "away_score":2
-    },
-    {
-      "date":"2013-07-27",
-      "division":"Österreichische Bundesliga",
-      "home_team":"SV Ried",
-      "away_team":"Wolfsberger AC",
-      "home_score":1,
-      "away_score":0
-    },
-    {
-      "date":"2013-07-27",
-      "division":"Österreichische Bundesliga",
-      "home_team":"FC RB Salzburg",
-      "away_team":"FK Austria Wien",
-      "home_score":5,
-      "away_score":1
-    },
-    {
-      "date":"2013-07-28",
-      "division":"Österreichische Bundesliga",
-      "home_team":"SK Sturm Graz",
-      "away_team":"SV Grodig",
-      "home_score":0,
-      "away_score":2
-    },
-    {
-      "date":"2013-08-03",
-      "division":"Österreichische Bundesliga",
-      "home_team":"SC Wiener Neustadt",
-      "away_team":"Wolfsberger AC",
-      "home_score":2,
-      "away_score":1
-    },
-    {
-      "date":"2013-08-03",
-      "division":"Österreichische Bundesliga",
-      "home_team":"SV Grodig",
-      "away_team":"FC Admira Wacker",
-      "home_score":7,
-      "away_score":1
-    },
+    }
   ]

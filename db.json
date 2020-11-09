@@ -22,37 +22,5 @@
       "away_team":"SV Ried",
       "home_score":0,
       "away_score":0
-    },
-    {
-      "date":"2013-07-20",
-      "division":"Österreichische Bundesliga",
-      "home_team":"Wolfsberger AC",
-      "away_team":"SK Rapid Wien",
-      "home_score":2,
-      "away_score":2
-    },
-    {
-      "date":"2013-07-21",
-      "division":"Österreichische Bundesliga",
-      "home_team":"FC Wacker Innsbruck",
-      "away_team":"SK Sturm Graz",
-      "home_score":2,
-      "away_score":2
-    },
-    {
-      "date":"2013-07-27",
-      "division":"Österreichische Bundesliga",
-      "home_team":"SK Rapid Wien",
-      "away_team":"SC Wiener Neustadt",
-      "home_score":4,
-      "away_score":0
-    },
-    {
-      "date":"2013-07-27",
-      "division":"Österreichische Bundesliga",
-      "home_team":"FC Admira Wacker",
-      "away_team":"FC Wacker Innsbruck",
-      "home_score":1,
-      "away_score":2
     }
   ]
